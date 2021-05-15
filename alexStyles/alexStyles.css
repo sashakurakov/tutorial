@@ -1,0 +1,108 @@
+/*Default*/
+* {
+  box-sizing: border-box; 
+}
+
+pre {
+    white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
+    white-space: -pre-wrap; /* Opera */
+    white-space: -o-pre-wrap; /* Opera */
+    white-space: pre-wrap; /* CSS3 - Text module (Candidate Recommendation) http://www.w3.org/TR/css3-text/#white-space */
+    word-wrap: break-word; /* IE 5.5+ */
+}  
+
+/*----------*/
+
+
+
+
+   
+
+
+
+
+body {
+  background-color: #E5FFFF;
+}
+ 
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+footer {
+
+  background-color: #34757686; 
+}
+
+ 
+
+header { 
+  z-index: 20;  
+  top: 0;  
+  padding: 5px;
+  background-color: #8DB7B7FF;
+  border: 2px solid #000000;
+}
+ 
+footer h1{
+  color: black;
+}
+
+.brick{  
+  background-color: #1FDF2092;
+}
+
+.brick2{
+  color:  
+	background-color: #FFADB5;
+	margin: 40px;
+	border: 10px;
+	border: solid #547C7B;
+	padding: 50px; 
+  /*width: 25%;*/  
+}
+
+
+ 
+
+ 
+
+ 
+ 
+/*таблиці*/ 
+.alexTable{overflow-x: auto; } 
+
+.alexTable table {
+  border: 10px solid black;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.alexTable th, td { 
+  border: 1px solid black; 
+  text-align: left;  
+  padding: 8px;
+} 
+  
+.alexTable tr:nth-child(even) {background-color: #34757686;}  
+
+
+ @media only screen and (max-width: 576px) {
+  body {
+    background-color: lightblue;
+  }
+  .alexTable2 {
+    display: none; 
+  }
+}
+
+
+     
+@media only screen and (){
+
+}
+
+   
+
+

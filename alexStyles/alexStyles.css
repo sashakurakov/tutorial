@@ -1,4 +1,4 @@
-/*Default*/
+/*  Default */
 * {
   box-sizing: border-box; 
 }
@@ -11,7 +11,7 @@ pre {
     word-wrap: break-word; /* IE 5.5+ */
 }  
 
-/*----------*/
+/*------------*/
 
 
 
@@ -50,7 +50,7 @@ footer h1{
 }
 
 .brick{  
-  background-color: red;         
+  background-color: lightgrey;           
 }
 
 .brick2{

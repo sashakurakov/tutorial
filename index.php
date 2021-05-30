@@ -319,7 +319,7 @@
 					<div id="mvDiv" style="background:#98bf21;height:100px;width:100px;position:relative;"></div> 
 			</div>
 		</section>
-		    
+		       
 
  		
 		<footer class="container-fluid">   
@@ -328,4 +328,8 @@
 	</body>	
 </html>
 
+<?php
+
+
    
+
